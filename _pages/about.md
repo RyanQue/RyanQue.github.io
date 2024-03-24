@@ -16,12 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello there! In 2023, I earned my Master's degree in Data Analytics from the University of Sydney. Prior to this, I studied biological engineering at Shandong University with a dual degree in finance.
+Hello there! In 2023, I earned my Master's degree (Commerce) in **Data Analytics** and **Business Information System** from the University of Sydney. Prior to this, I studied **biological engineering** at Shandong University with a dual degree in **Finance**.
 
 This educational journey was shifty but pivotal in unveiling my true strengths and passion, which is centred around working around data, especially identifying patterns, building logical connections between entities and events, and trying to tackle real problems leveraging analytical results. Being exposed to new subjects does not make me feel overwhelmed but only makes me stay motivated with constant learning.
 
 
-I am looking for a full-time job, either in research or industry, where I can apply my skills and contribute to meaningful projects.
+I am currently looking for a full-time job, where I can apply my skills and contribute to meaningful projects, and make a real difference.
 
 ---
 
